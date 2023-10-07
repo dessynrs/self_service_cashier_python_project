@@ -2,7 +2,6 @@
 
 Program Self-service cashier sederhana yang dibuat dengan menggunakan bahasa pemrograman Python dan terhubung dengan database SQLite3 
 
-Note : code dapat dilihat pada branch master
 
 ## **Tujuan Pengerjaan Proyek**
 
@@ -33,6 +32,7 @@ Dan berikut database sederhana hasil dari program ini.
 4. File "order_super_cashier.db" yang berisi 2 tabel transaksi dan customer sebagai hasil uji coba menjalankan program
 5. File tambahan berupa hasil test case sesuai tugas proyek
 6. File presentasi dan flow chart
+7. Detail file / code dapat dilihat pada branch master
 
 
 ## **Cara Menjalankan Program**
