@@ -1,6 +1,7 @@
 # ****Self-service Cashier Register****
 
 Program Self-service cashier sederhana yang dibuat dengan menggunakan bahasa pemrograman Python dan terhubung dengan database SQLite3 
+
 Note : code dapat dilihat pada branch master
 
 ## **Tujuan Pengerjaan Proyek**
